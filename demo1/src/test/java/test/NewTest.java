@@ -9,6 +9,7 @@ public class NewTest {
   public void f() {
 	  
 	  System.out.println("可以");
+	  System.out.println("可以");
   }
   @BeforeClass
   public void beforeClass() {
